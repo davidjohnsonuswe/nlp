@@ -1,1 +1,1 @@
-# Language Technology course from Lund University, Sweden
+Language Technology course from Lund University, Sweden
